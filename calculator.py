@@ -17,3 +17,6 @@ if __name__ == "__main__":
     print("5 - 2 =", subtract(5, 2))
     print("4 * 3 =", multiply(4, 3))
     print("10 / 2 =", divide(10, 2))
+
+def square(a):
+    return a * a
