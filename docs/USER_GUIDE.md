@@ -58,4 +58,4 @@ python -m pytest test_calculator.py -v
 
 ## Автор
 
-Студент группы ___
+Констнатин Ч.
